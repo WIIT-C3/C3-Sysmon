@@ -1,4 +1,4 @@
-<manifest schemaversion="4.22" binaryversion="9.20">
+<manifest schemaversion="4.22">
   <configuration>
     <options>
       <!-- Command-line only options -->
