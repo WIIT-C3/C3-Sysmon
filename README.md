@@ -1,6 +1,6 @@
 # C3 Sysmon Files
 
-## Sysmon Main
+## Windows Server 2016 +
 
 - Version: 15.14
 - Schema Version: 4.90
