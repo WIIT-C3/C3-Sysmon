@@ -1314,6 +1314,8 @@
 			<QueryName condition="end with">.ocsp.identrust.com</QueryName>
 			<QueryName condition="is">status.rapidssl.com</QueryName>
 			<QueryName condition="is">status.thawte.com</QueryName>
+			<!--EDRs or AntiVirus-->
+			<QueryName condition="end with">.cynet.com</QueryName>
 			<!-- SECTION: PRTG -->
 			<Image condition="is">C:\Program Files (x86)\PRTG Network Monitor\PRTG Probe.exe</Image>
 		</DnsQuery>
